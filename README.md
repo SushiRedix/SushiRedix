@@ -1,4 +1,7 @@
-###                                                  Hi there, I'm Sasha 👋
+###Hi there, I'm Sasha 👋
+### - Currently working on a MMORPG multiplayer game 
+### - Learning about networking and database
+### - If you want to contact me on: chverenkool@gmail.com
 
 <!--
 **SushiRedix/SushiRedix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
